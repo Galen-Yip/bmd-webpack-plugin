@@ -1,7 +1,7 @@
 {
   "name": "bmd-webpack-plugin",
   "version": "1.0.0",
-  "description": "pack the bundle both with umd and seajs(cmd),just call bmd（Both Module Definition）",
+  "description": "A webpack plugin that pack the bundle both with umd and seajs(cmd),just call bmd（Both Module Definition）",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

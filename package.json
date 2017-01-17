@@ -1,0 +1,21 @@
+{
+  "name": "bmd-webpack-plugin",
+  "version": "1.0.0",
+  "description": "pack the bundle both with umd and seajs(cmd),just call bmd（Both Module Definition）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "umd",
+    "seajs",
+    "bmd"
+  ],
+  "author": "GalenYip",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-core": "^0.6.9"
+  }
+}

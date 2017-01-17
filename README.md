@@ -14,7 +14,6 @@ npm:
 
 ```
   npm install bmd-webpack-plugin --save
-
 ```
 
 

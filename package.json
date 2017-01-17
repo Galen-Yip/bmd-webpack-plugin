@@ -12,8 +12,14 @@
     "seajs",
     "bmd"
   ],
+  "homepage": "https://github.com/Galen-Yip/bmd-webpack-plugin",
+  "bugs": "https://github.com/Galen-Yip/bmd-webpack-plugin/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Galen-Yip/bmd-webpack-plugin.git"
+  },
   "author": "GalenYip",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "webpack": "^1.14.0",
     "webpack-core": "^0.6.9"

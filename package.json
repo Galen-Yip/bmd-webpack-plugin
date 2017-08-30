@@ -21,7 +21,6 @@
   "author": "GalenYip",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.14.0",
-    "webpack-core": "^0.6.9"
+    "webpack": "^3.5.5"
   }
 }

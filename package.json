@@ -1,6 +1,6 @@
 {
   "name": "bmd-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack plugin that pack the bundle both with umd and seajs(cmd),just call bmd（Both Module Definition）",
   "main": "index.js",
   "scripts": {
